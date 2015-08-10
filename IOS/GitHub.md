@@ -6,3 +6,7 @@
 2、IOS学习资料
 
 [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) : https://github.com/Aufree/trip-to-iOS
+
+3、Github-iOS备忘
+
+[Github-iOS备忘](http://github.ibireme.com/github/list/ios/) : http://github.ibireme.com/github/list/ios/
