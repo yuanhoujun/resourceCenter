@@ -14,3 +14,7 @@
 4、FireFox-IOS源码 （使用Swift语言开发）
 
 [FireFox-IOS](https://github.com/mozilla/firefox-ios) : https://github.com/mozilla/firefox-ios
+
+5、Git学习教程
+[Study-Git](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000):http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+
